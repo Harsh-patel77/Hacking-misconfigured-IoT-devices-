@@ -1,7 +1,7 @@
 # Hacking-misconfigured-IoT-devices-
 
 ## Project Summary:
-in this practical you will learn how to exploit IoT devices that are 
+in this practical we will demonstrate IoT (Internet of Things) devices that are 
 misconfigured or using default credentials and exposed to the outside network. 
 
 ## Step:1
